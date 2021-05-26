@@ -1,7 +1,7 @@
 # Project Fusion Lights
 Team Marvelous on JunctionXSeoul 2021
 
-# Power Automate Logic Flow
+### Power Automate Logic Flow
 ![logic flow](./powerautomate_logic.png)
 
 ### **Team Marvelous**
