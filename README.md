@@ -12,4 +12,4 @@ Team Marvelous on JunctionXSeoul 2021
 - Eunjung Lee: Advisor, Translation, Azure
 
 ### Certificate
-![Mail 첨부 파일](https://user-images.githubusercontent.com/23313008/123814871-02e32e80-d931-11eb-81c3-3ebaf7b744ab.jpeg)
+![JunctionX Seoul  TRACK WINNER 3rd_Microsoft](https://user-images.githubusercontent.com/23313008/123815392-6a997980-d931-11eb-8139-434b6cec117d.jpg)
